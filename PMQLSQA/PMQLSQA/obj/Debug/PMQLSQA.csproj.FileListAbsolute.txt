@@ -251,4 +251,4 @@ D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.csproj.GenerateResource.cache
 D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.csproj.CoreCompileInputs.cache
 D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.dll
 D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.pdb
-D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.csproj.CopyComplete
+D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.csproj.AssemblyReference.cache
