@@ -251,3 +251,5 @@ D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.csproj.AssemblyReference.cach
 D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.csproj.CoreCompileInputs.cache
 D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.dll
 D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.pdb
+D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.Migrations.add_column_Account_Username.resources
+D:\GitHub\BTL_QL\PMQLSQA\PMQLSQA\obj\Debug\PMQLSQA.csproj.GenerateResource.cache
